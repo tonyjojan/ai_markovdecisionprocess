@@ -1,12 +1,12 @@
 # Markov Decision Process with Mars Rover
-## input: destination location, trap locations, and grid size
-## output: policy computation for each grid location
+input: destination location, trap locations, and grid size
+output: policy computation for each grid location
 
-#Structure
-## input: input.txt
-## output: output.txt
+# Structure
+input: input.txt
+output: output.txt
 
-#Instructions
+# Instructions
 javac marsrover.java
 java marsrover
 
